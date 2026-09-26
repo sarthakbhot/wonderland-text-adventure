@@ -1,0 +1,6 @@
+# id|name|location|dialogue
+white_rabbit|White Rabbit|rabbit_house|Oh dear! I seem to have misplaced something important!
+caterpillar|Caterpillar|mushroom_grove|Who are you?
+cheshire_cat|Cheshire Cat|mushroom_grove|Most everyone here is mad.
+mad_hatter|Mad Hatter|tea_party_table|It is always tea-time here.
+queen_of_hearts|Queen of Hearts|queen_garden|Off with their heads!
