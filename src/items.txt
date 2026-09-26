@@ -1,0 +1,15 @@
+# id|name|location|treasure
+daisy_chain|daisy chain|rabbit_hole_entrance|false
+drink_bottle|drink bottle|wonder_hall|false
+cake|cake|wonder_hall|false
+golden_key|golden key|wonder_hall|false
+gloves|white gloves|rabbit_house|false
+fan|white fan|rabbit_house|true
+watch|pocket watch|hidden|true
+blue_flower|blue flower|mushroom_grove|false
+silver_bell|silver bell|mushroom_grove|false
+tea_cup|tea cup|tea_party_table|true
+teapot|teapot|tea_party_table|false
+white_rose|white rose|queen_garden|false
+flamingo|flamingo|queen_garden|false
+playing_card|playing card|queen_garden|false
