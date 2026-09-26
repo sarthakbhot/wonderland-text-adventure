@@ -1,0 +1,17 @@
+# name|direction|shortcuts
+go|false|move,walk
+look|false|l
+inventory|false|invent,i
+take|false|get,grab
+drop|false|leave
+talk|false|speak
+give|false|hand
+use|false|
+stash|false|store
+help|false|commands
+quit|false|exit
+north|true|n
+south|true|s
+east|true|e
+west|true|w
+down|true|d
