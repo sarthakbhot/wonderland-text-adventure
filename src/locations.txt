@@ -1,0 +1,7 @@
+# id|name|first description|repeat description|exits
+rabbit_hole_entrance|Rabbit Hole Entrance|You stand beside the rabbit hole where the adventure begins. The only clear path is down into Wonderland.|You are back at the rabbit hole entrance.|down=wonder_hall
+wonder_hall|Wonder Hall|You enter Wonder Hall, the safe room at the center of the game. Come back here to stash treasure.|You are back in Wonder Hall.|east=rabbit_house,west=mushroom_grove,north=tea_party_table,south=queen_garden
+rabbit_house|Rabbit House|You are inside the White Rabbit's house. It looks neat, hurried, and full of useful things.|You are back in the Rabbit House.|west=wonder_hall,south=queen_garden
+mushroom_grove|Mushroom Grove|A giant mushroom rises in the middle of the grove, and the Caterpillar watches from above.|You are back in Mushroom Grove.|east=wonder_hall,north=tea_party_table
+tea_party_table|Tea Party Table|A long tea table is covered with cups, crumbs, and nonsense. One treasure is here.|You are back at the Tea Party Table.|south=wonder_hall,west=mushroom_grove
+queen_garden|Queen's Garden|The Queen's Garden feels neat, tense, and a little dangerous, but you can retreat north at any time.|You are back in the Queen's Garden.|north=wonder_hall,east=rabbit_house
